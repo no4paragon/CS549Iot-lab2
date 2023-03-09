@@ -12,7 +12,7 @@
 
 
 
-<img src="[https://github.com/no4paragon/CS549Iot-lab2/blob/main/Photo%20Mar%2008%202023%2C%2022%2024%2036.jpg]" width="50%" height="50%">
+<img src="https://github.com/no4paragon/CS549Iot-lab2/blob/main/Photo%20Mar%2008%202023%2C%2022%2024%2036.jpg" width="50%" height="50%">
 
 ![photo2](https://github.com/no4paragon/CS549Iot-lab2/blob/main/Photo%20Mar%2008%202023%2C%2022%2024%2038.jpg)
 ![photo3](https://github.com/no4paragon/CS549Iot-lab2/blob/main/Photo%20Mar%2008%202023%2C%2022%2024%2049.jpg)
