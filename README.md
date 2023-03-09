@@ -9,7 +9,7 @@
 - The TL remains in yellow and red-yellow for 2 seconds.
 - The TL has a touch button for pedestrians, it remains in green until the pedestrian button is pressed. The TL remains in green at least 5 seconds after the touch button has become active.
 - The TL has a buzzer for visual impairment aid with two modes. When in green the buzzer must be 500 ms on and 1500 ms off; when in red the buzzer must be 250 ms on and 250 ms off. (NOTE: You can put a fingertip on the top of the buzzer to reduce the sound volume)
+<img src="[url](https://github.com/no4paragon/CS549Iot-lab2/blob/main/Photo%20Mar%2008%202023%2C%2022%2024%2036.jpg)" width="50%" height="50%">
 
-![photo1](https://github.com/no4paragon/CS549Iot-lab2/blob/main/Photo%20Mar%2008%202023%2C%2022%2024%2036.jpg | width=100)
 ![photo2](https://github.com/no4paragon/CS549Iot-lab2/blob/main/Photo%20Mar%2008%202023%2C%2022%2024%2038.jpg)
 ![photo3](https://github.com/no4paragon/CS549Iot-lab2/blob/main/Photo%20Mar%2008%202023%2C%2022%2024%2049.jpg)
