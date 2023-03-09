@@ -13,7 +13,6 @@
 
 <h2>[Youtube lab2 video link](https://www.youtube.com/embed/uWg5k92f7aA)</h2>
 
-<img src="https://github.com/no4paragon/CS549Iot-lab2/blob/main/Photo%20Mar%2008%202023%2C%2022%2024%2036.jpg" width="60%" height="60%">
-<img src="https://github.com/no4paragon/CS549Iot-lab2/blob/main/Photo%20Mar%2008%202023%2C%2022%2024%2038.jpg" width="60%" height="60%">
-<img src="https://github.com/no4paragon/CS549Iot-lab2/blob/main/Photo%20Mar%2008%202023%2C%2022%2024%2049.jpg" width="60%" height="60%">
-
+<img src="https://github.com/no4paragon/CS549Iot-lab2/blob/main/Photo%20Mar%2009%202023%2C%2000%2035%2042.jpg" width="60%" height="60%">
+<img src="https://github.com/no4paragon/CS549Iot-lab2/blob/main/Photo%20Mar%2009%202023%2C%2000%2035%2051.jpg" width="60%" height="60%">
+<img src="https://github.com/no4paragon/CS549Iot-lab2/blob/main/Photo%20Mar%2009%202023%2C%2000%2036%2001.jpg" width="60%" height="60%">
