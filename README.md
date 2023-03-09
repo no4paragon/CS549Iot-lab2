@@ -11,7 +11,7 @@
 - The TL has a buzzer for visual impairment aid with two modes. When in green the buzzer must be 500 ms on and 1500 ms off; when in red the buzzer must be 250 ms on and 250 ms off. (NOTE: You can put a fingertip on the top of the buzzer to reduce the sound volume)
 
 
-<h2>[Youtube lab2 video](https://www.youtube.com/embed/uWg5k92f7aA)</h2>
+<h2>[Youtube lab2 video link](https://www.youtube.com/embed/uWg5k92f7aA)</h2>
 
 <img src="https://github.com/no4paragon/CS549Iot-lab2/blob/main/Photo%20Mar%2008%202023%2C%2022%2024%2036.jpg" width="60%" height="60%">
 <img src="https://github.com/no4paragon/CS549Iot-lab2/blob/main/Photo%20Mar%2008%202023%2C%2022%2024%2038.jpg" width="60%" height="60%">
