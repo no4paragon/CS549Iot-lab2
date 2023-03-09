@@ -1,6 +1,7 @@
 # Lab 2: **Highway Traffic Light**
 
-<p align="center">Your task is to build a simplified traffic light (TL) controller using the ESP32 board and the provided set of sensors. The TL comprises three LEDs, a buzzer, and a touch button.</p>
+<p align="center">Your task is to build a simplified traffic light (TL) controller using the ESP32 board and the provided set of sensors.
+  The TL comprises three LEDs, a buzzer, and a touch button.</p>
 
 <h2>Problem description:</h2>
 
